@@ -1,5 +1,3 @@
-## 📄 Résumé
-
 ### 👤 About Me
 This is Rafid Ahmed Fahid. I'm a passionate mathematics student and aspiring developer with a strong foundation in competitive programming, encryption systems, and Discord bot development. I enjoy blending theory with practical coding, and I'm always exploring new technologies to sharpen my skills.
 
