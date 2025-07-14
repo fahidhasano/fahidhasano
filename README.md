@@ -10,33 +10,20 @@ This is Rafid Ahmed Fahid. I'm a passionate mathematics student and aspiring dev
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/pickaboofahid)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@rafidahmed6548)
 ---
-### 🎓 Education
-
- **🎓 B.Sc. in Pure Mathematics**  
-_University of Dhaka_ — Dhaka, Bangladesh  
-📅 2022 – Present
-
-**🏫 HSC, Science**  
-_Adamjee Cantonment College_ — Dhaka, Bangladesh  
-📅 Graduated: 2022 | 🎖️ GPA: 5.00
-
-**🏫 SSC, Science**  
-_Monipur Uchcha Vidyalaya and College_ — Dhaka, Bangladesh  
-📅 Graduated: 2020 | 🎖️ GPA: 5.00
-
-
 ### 🛠️ Skills
 
 **Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="40"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white" alt="Ms" width="140"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Fortran Logo" width="190"/>
+</p>
 
 **Interests**  
 Competitive Programming • Cryptography • Discord Bot Development • Machine Learning APIs • Linux & WSL
