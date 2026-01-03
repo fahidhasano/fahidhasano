@@ -23,7 +23,7 @@ This is Rafid Ahmed Fahid. I'm a passionate mathematics student and aspiring dev
 </p>
 
 **Interests**  
-Competitive Programming • Cryptography • Discord Bot Development • Machine Learning APIs • Linux & WSL
+Computational Mathematics and Statistics • Data Science • Machine Learning and Artificial Intelligence • Competitive Programming • Cryptography • Discord Bot Development • Machine Learning APIs • Linux & WSL
 
 ---
 ### 📞 Connections
