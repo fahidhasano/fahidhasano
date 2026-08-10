@@ -21,6 +21,7 @@ This is Rafid Ahmed Fahid. I'm a passionate mathematics student and aspiring dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="40"/>
   <img src="https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white" alt="Ms" width="100"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="Fortran Logo" width="130"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI Logo" width="40"/>
   
 </p>
 
